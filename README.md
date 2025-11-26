@@ -83,12 +83,3 @@ The game defines distinct zones for spawning targets, shooting them, and restric
 2. Open `Unity-iPhone.xcodeproj` in Xcode.
 3. Set up **Team** and **Bundle Identifier** in Signing & Capabilities.
 4. Connect your device and build (`⌘R`).
-
----
-
-## 🙌 Credits
-
-- **Unity** Game Engine  
-- **Apple ARKit**  
-- All assets & code created by [Abhay Mahajan](https://github.com/Abhayooo7)
-
